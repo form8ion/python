@@ -32,7 +32,7 @@ Python language plugin for the @form8ion tool suite
 ### Installation
 
 ```sh
-$ npm install @form8ion/python
+$ npm install @form8ion/python --save-prod
 ```
 
 ### Example
