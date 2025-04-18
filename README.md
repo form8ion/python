@@ -1,6 +1,6 @@
 # python
 
-Python language plugin for the @form8ion tool suite
+[Python](https://www.python.org/) language plugin for the @form8ion tool suite
 
 <!--status-badges start -->
 
